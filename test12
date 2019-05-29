@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+<head>
+
+<title> Welcome to HTML5 Page</title>
+<link rel="stylesheet" href="style.css">
+    <script src="script.js"></script>
+  </head>
+  <body>
+  <table border="1" cellspacing="0" cellpadding="3" style="width:100%" colspan="4" style="background-color:red" text-align: center;>
+        <caption><br><h3>Software information</h3></caption>
+        <tbody>
+        <tr>
+          <th>Software Names:</th>
+          <th colspan="2">Software Types:</th>
+          <th>Release year:</th> 
+          <th>Latest Version:</th>
+          <th>Price:</th>
+        </tr>
+        <tr>
+          <td>Java</td>
+          <td colspan="2">High level language
+          <br>OOPS support</td>
+          <td>2018</td>
+          <td>Java9</td>
+          <td>Open source</td>
+        </tr>
+        <tr>
+          <td>MySQL</td>
+          <td>Database</td> 
+          <td>2017</td>
+          <td>MySQL8</td>
+          <td>Open source</td>
+        </tr>
+    </tbody>
+    <tfoot>
+        <tr><th rowspan="4">Users are:</th>
+        <td>Academics and commercial users</td></tr>
+    </tfoot>
+      </table>
+      </body>
+</html>
